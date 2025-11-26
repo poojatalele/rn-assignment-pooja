@@ -18,14 +18,14 @@ This is a simple React Native notes app that allows users to write notes in Mark
     ```
 3.  **Run on Device/Emulator**:
     -   Scan the QR code with the Expo Go app on your Android/iOS device.
-    -   Press `a` to run on Android Emulator.
-    -   Press `i` to run on iOS Simulator.
 
 ## Dependencies
--   `react`: 18.2.0
--   `react-native`: 0.74.5
--   `expo`: ~51.0.28
+-   `react`: 19.1.0
+-   `react-native`: 0.81.5
+-   `expo`: ~54.0.25
 -   `react-native-markdown-display`: ^7.0.2
+-   `react-dom`: (for web support)
+-   `react-native-web`: (for web support)
 
 ## Folder Structure
 -   `/src/components`: Contains `Editor.js` and `Preview.js` components.
